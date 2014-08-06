@@ -4,6 +4,15 @@
 
 基于Laravel 4.x
 
+## Installation
+
+``` bash
+    git clone https://github.com/dongtiangche/Homework-workbench.git
+    cd Homework-workbench
+    composer install
+```
+
+
 #### Server:
 Apache + PHP + Mysql
 
