@@ -1,0 +1,39 @@
+#header{
+    width:100%;
+    margin:auto;
+}
+ul{
+    width:100%;
+    display: inline-block;
+    vertical-align: middle;
+    list-style-type: none;
+    padding: 10px;
+    border-bottom: lightblue 2px solid;
+    min-width: 60px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-left: 20px;
+}
+li{
+    float: left;
+    min-width: 60px;
+    margin-bottom: 0;
+    position: relative;
+    top:2px;
+}
+li>a{
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 0;
+    border: solid lightblue 2px;
+    color:lightblue;
+    text-decoration: none;
+    display: inline-block;
+    min-width: 80px;
+}
+li>a:hover{
+    border-bottom-color: white;
+}
+.is_this{
+    border-bottom-color: white;
+}
